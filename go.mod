@@ -1,4 +1,4 @@
-module test
+module github.com/reonardoleis/go-playground
 
 go 1.19
 
